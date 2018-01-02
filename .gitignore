@@ -39,3 +39,6 @@ luac.out
 *.x86_64
 *.hex
 
+# Temporary executable I created because the love.app path is too long
+# (and I am too lazy to change the $PATH)
+selene.sh
